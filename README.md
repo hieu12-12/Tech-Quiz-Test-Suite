@@ -165,21 +165,6 @@ npm test
 
 This will execute both the component tests and the end-to-end tests.
 
-### Component Tests
-
-Tests individual React components in isolation.
-
-### End-to-End Tests
-
-Tests the full application workflow, simulating user interactions with the quiz interface.
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add some amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ## License
 
